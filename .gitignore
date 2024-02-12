@@ -1,0 +1,10 @@
+# Ignore compiled Python files
+__pycache__/
+bot\migrations\__pycache__
+*.pyc
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore log files
+*.log
